@@ -1,0 +1,34 @@
+body{
+    background-image: url(fundo);
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Bungee', cursive;
+
+}
+
+p{
+    font-size: 25px;
+}
+
+.produto{
+    position: absolute;
+    background-color: rgba(235, 202, 212, 0.5);
+    width: 250px;
+    margin-top: 150px;
+    margin-left: 15%;
+    border-radius: 5%;
+}
+
+.aroma{
+    background-color: antiquewhite;
+    margin-top: -25px;
+}
+
+.logo{
+    margin-top: -9%;
+}
+
+
